@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.SignalR;
-
-namespace HowSignalRWorks.Hubs.GameManager.Game
+﻿namespace Hubs.GameManager.Game
 {
     internal class Game
     {
@@ -41,8 +39,8 @@ namespace HowSignalRWorks.Hubs.GameManager.Game
         }
 
         private IGameClient? OpponentOf(IGameClient? player)
-        {   
-            if(player == null)
+        {
+            if (player == null)
             {
                 return null;
             }
@@ -70,7 +68,7 @@ namespace HowSignalRWorks.Hubs.GameManager.Game
                 else
                 {
                     if (index == clickedCats[clickedCount])
-                    { 
+                    {
                         clickedCount++;
                     }
                     else

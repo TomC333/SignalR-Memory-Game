@@ -1,5 +1,4 @@
-﻿using HowSignalRWorks.Hubs.GameManager.Game;
-using Microsoft.AspNetCore.Connections.Features;
+﻿using Hubs.GameManager.GameManager;
 using Microsoft.AspNetCore.SignalR;
 
 public class LobbyHub : Hub<ILobbyClient>

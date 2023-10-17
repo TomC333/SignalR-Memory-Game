@@ -65,7 +65,6 @@ export class GameManager {
 
             if (this._isUserTurn && this._canPlay) {
 
-                console.log("sending play request");
                 this._connection.send("Play", cat.id, this._gameId);
             }
 

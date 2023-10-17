@@ -1,4 +1,6 @@
-﻿namespace HowSignalRWorks.Hubs.GameManager.Game;
+﻿namespace Hubs.GameManager.GameManager;
+
+using Hubs.GameManager.Game;
 
 static class GameManager
 {

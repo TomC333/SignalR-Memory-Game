@@ -42,7 +42,6 @@ export class GameManager {
         };
         cat.getCatElement().onpointertap = () => {
             if (this._isUserTurn && this._canPlay) {
-                console.log("sending play request");
                 this._connection.send("Play", cat.id, this._gameId);
             }
         };

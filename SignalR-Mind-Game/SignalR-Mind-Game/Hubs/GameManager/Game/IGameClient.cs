@@ -1,4 +1,4 @@
-﻿namespace HowSignalRWorks.Hubs.GameManager.Game
+﻿namespace Hubs.GameManager.Game
 {
     public interface IGameClient
     {

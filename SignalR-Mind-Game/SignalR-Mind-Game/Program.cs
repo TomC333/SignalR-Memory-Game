@@ -1,4 +1,4 @@
-using HowSignalRWorks.Hubs.GameManager.Game;
+using Hubs.GameManager.Game;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSignalR();
