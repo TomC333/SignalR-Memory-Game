@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\b-0.png",
+      "PackagePath": "staticwebassets\\assets\\b-0.png"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\b-1.png",
+      "PackagePath": "staticwebassets\\assets\\b-1.png"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\b-2.png",
+      "PackagePath": "staticwebassets\\assets\\b-2.png"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\b-3.png",
+      "PackagePath": "staticwebassets\\assets\\b-3.png"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\sounds\\sCat0.mp3",
+      "PackagePath": "staticwebassets\\assets\\sounds\\sCat0.mp3"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\sounds\\sCat1.mp3",
+      "PackagePath": "staticwebassets\\assets\\sounds\\sCat1.mp3"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\sounds\\sCat2.mp3",
+      "PackagePath": "staticwebassets\\assets\\sounds\\sCat2.mp3"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\sounds\\sCat3.mp3",
+      "PackagePath": "staticwebassets\\assets\\sounds\\sCat3.mp3"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\w-0.png",
+      "PackagePath": "staticwebassets\\assets\\w-0.png"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\w-1.png",
+      "PackagePath": "staticwebassets\\assets\\w-1.png"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\w-2.png",
+      "PackagePath": "staticwebassets\\assets\\w-2.png"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\assets\\w-3.png",
+      "PackagePath": "staticwebassets\\assets\\w-3.png"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\auth.738eb80943afb6e98ed2.js",
+      "PackagePath": "staticwebassets\\auth.738eb80943afb6e98ed2.js"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\css\\auth.738eb80943afb6e98ed2.css",
+      "PackagePath": "staticwebassets\\css\\auth.738eb80943afb6e98ed2.css"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\css\\game.58deb28add28d293f571.css",
+      "PackagePath": "staticwebassets\\css\\game.58deb28add28d293f571.css"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\game.58deb28add28d293f571.js",
+      "PackagePath": "staticwebassets\\game.58deb28add28d293f571.js"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\game.html",
+      "PackagePath": "staticwebassets\\game.html"
+    },
+    {
+      "Id": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SignalR-Mind-Game.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SignalR-Mind-Game.props",
+      "PackagePath": "build\\SignalR-Mind-Game.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalR-Mind-Game.props",
+      "PackagePath": "buildMultiTargeting\\SignalR-Mind-Game.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SignalR-Mind-Game.props",
+      "PackagePath": "buildTransitive\\SignalR-Mind-Game.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

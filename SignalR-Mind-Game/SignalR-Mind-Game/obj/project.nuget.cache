@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEj0wS3OaOa5WoRHKkvrRBfNKxbdaTJ9iUVxVUznhbWPMlkTB4Og+LtEFOGQgmw5lL8VJ65JP8PRii+kdwu0og==",
+  "success": true,
+  "projectFilePath": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ddadi\\.nuget\\packages\\microsoft.typescript.msbuild\\5.2.2\\microsoft.typescript.msbuild.5.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
