@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bzginNKuVLkClwoe9zt66ToCdunDx05l+y6PjTNlhJs=",
+  "Hash": "eODXmFNqBoyznWYFhnx9M3j+pX0Vv1VeN080uSDPOLM=",
   "Source": "SignalR-Mind-Game",
   "BasePath": "_content/SignalR-Mind-Game",
   "Mode": "Default",
@@ -255,12 +255,12 @@
       "OriginalItemSpec": "wwwroot\\css\\auth.738eb80943afb6e98ed2.css"
     },
     {
-      "Identity": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\css\\game.58deb28add28d293f571.css",
+      "Identity": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\css\\game.b98357b880d36bb39f18.css",
       "SourceId": "SignalR-Mind-Game",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\",
       "BasePath": "_content/SignalR-Mind-Game",
-      "RelativePath": "css/game.58deb28add28d293f571.css",
+      "RelativePath": "css/game.b98357b880d36bb39f18.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\game.58deb28add28d293f571.css"
+      "OriginalItemSpec": "wwwroot\\css\\game.b98357b880d36bb39f18.css"
     },
     {
-      "Identity": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\game.58deb28add28d293f571.js",
+      "Identity": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\game.b98357b880d36bb39f18.js",
       "SourceId": "SignalR-Mind-Game",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\",
       "BasePath": "_content/SignalR-Mind-Game",
-      "RelativePath": "game.58deb28add28d293f571.js",
+      "RelativePath": "game.b98357b880d36bb39f18.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,7 +286,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\game.58deb28add28d293f571.js"
+      "OriginalItemSpec": "wwwroot\\game.b98357b880d36bb39f18.js"
     },
     {
       "Identity": "C:\\MyFiles\\Next Level Games\\SignalR-Mind-Game\\SignalR-Mind-Game\\SignalR-Mind-Game\\wwwroot\\game.html",
