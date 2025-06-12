@@ -1,5 +1,8 @@
 # SignalR Mind Game (or Memory Game! 🧠)
 
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/TomC333/SignalR-Memory-Game)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/TomC333/SignalR-Memory-Game/blob/main/LICENSE)
+
 ## Background 🤯
 
 This project hails from my early days at my first job. At that time, **SignalR**, **C#**, and **TypeScript** were all new to me. My boss, keen on giving me hands-on experience, asked me to build a project using SignalR. This game was a fantastic way to dive in and gain some practical skills!
