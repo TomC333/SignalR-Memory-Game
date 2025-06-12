@@ -1,5 +1,5 @@
 import * as PIXI from 'pixi.js';
-import { Cat } from '../gamePbjects/cat';
+import { Cat } from '../gameObjects/cat';
 import { Layout } from '../layout';
 
 

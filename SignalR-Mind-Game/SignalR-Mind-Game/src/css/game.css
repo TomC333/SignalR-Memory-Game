@@ -9,6 +9,11 @@ body {
     background-color: #4e175e;
 }
 
+#game-finished-input-container {
+    display: flex;
+    justify-content: center;
+}
+
 .loader {
     display: flex;
     flex-direction: column;

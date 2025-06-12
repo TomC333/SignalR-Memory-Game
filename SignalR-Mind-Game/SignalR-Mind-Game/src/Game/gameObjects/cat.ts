@@ -9,9 +9,6 @@ export class Cat {
     constructor(private _id: number) { }
 
     async initializeCat(x: number, y: number) {
-
-        const str: string = 'bCat0';
-
         this._cat = PIXI.Sprite.from(SpriteManager.catPicturesMap.get(this.getBlackCatTextureKey()));
         this._cat.anchor.set(Layout.cat.anchor);
         this._cat.scale.set(Layout.cat.scale);
